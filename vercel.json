@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "mtn_online_store_backend/wsgi.py"
+    }
+  ]
+}
